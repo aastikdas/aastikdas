@@ -47,6 +47,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
+## 🎖️ My Holopin Badges
+
+[![An image of @aastikdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aastikdas)](https://holopin.io/@aastikdas)
 
 </td>
 </tr>
