@@ -3,7 +3,7 @@
 <td width="45%" valign="top">
 
 <p align="center">
-  <img src="https://media.istockphoto.com/id/2171116816/vector/software-engineer-writing-code-on-computer-coder-programming-database-programmer-typing.jpg?s=612x612&w=0&k=20&c=Me38Ik6uodfiNku4rlULWO0FGiutnqPSvTn2KdSHed4=" alt="Profile Illustration" width="250"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSklodWnmCvsoj2nKI7Iz3JzoSKEH-zBMsuPaTECT2s7Q&s=10" alt="Profile Illustration" width="250"/>
 </p>
 
 ### About Me
