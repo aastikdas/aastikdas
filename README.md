@@ -13,6 +13,15 @@
 
 </td>
 <td width="55%" valign="top">
+  
+
+
+### My Holopin Badges
+
+[![An image of @aastikdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aastikdas)](https://holopin.io/@aastikdas)
+
+### Open Source Contributions
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
 ### 🛠 Skills
 
@@ -47,10 +56,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-<b>🎖️ My Holopin Badges</b>
-
-
-[![An image of @aastikdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aastikdas)](https://holopin.io/@aastikdas)
 
 </td>
 </tr>
